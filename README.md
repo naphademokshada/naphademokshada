@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mokshada Rajesh Naphade</h1>
-<h3 align="center">🚀 Learning. Building. Growing. <br> 
+<h3 align="">🚀 Learning. Building. Growing. <br> 
                    🚀 Full-Stack Developer | Building Scalable Web & Cloud Solutions <br>
                    ⚙️ Backend Engineer | DevOps Enthusiast | Database Lover<br>
                    💡 Turning Ideas into Code | Passionate about Clean Architecture & CI/CD <br>
