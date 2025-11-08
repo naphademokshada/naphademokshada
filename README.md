@@ -49,7 +49,8 @@
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
