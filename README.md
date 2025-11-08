@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mokshada Rajesh Naphade</h1>
-<h3 align="center">🚀 Learning. Building. Growing. 🚀 Full-Stack Developer | Building Scalable Web & Cloud Solutions 💡 Turning Ideas into Code | Passionate about Clean Architecture & CI/CD 🧩 Code. Create. Collaborate. ⚙️ Backend Engineer | DevOps Enthusiast | Database Lover 🌐 Crafting Web Experiences with Code & Creativity 🌸 Still Learning — But Never Stopping 💻Coding by Day, Bharatanatyam by Heart</h3>
+<h3 align="center">🚀 Learning. Building. Growing. <br> 
+                   🚀 Full-Stack Developer | Building Scalable Web & Cloud Solutions <br>
+                   ⚙️ Backend Engineer | DevOps Enthusiast | Database Lover<br>
+                   💡 Turning Ideas into Code | Passionate about Clean Architecture & CI/CD <br>
+                   🧩 Code. Create. Collaborate.<br>
+                   🌐 Crafting Web Experiences with Code & Creativity <br>
+                   🌸 Still Learning — But Never Stopping <br>
+                   💻Coding by Day, Bharatanatyam by Heart</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naphademokshada" alt="naphademokshada" /></a> </p>
 
@@ -13,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mokshada-naphade-597baa334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mokshada-naphade-597baa334/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mokshada-naphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshada-naphade" height="30" width="40" /></a>
 <a href="https://instagram.com/mokshada.naphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokshada.naphade" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mokshadanaphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mokshadanaphade" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mnaphade_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mnaphade_04" height="30" width="40" /></a>
