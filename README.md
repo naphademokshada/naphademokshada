@@ -1,31 +1,32 @@
 <h1 align="center">Hi 👋, I'm Mokshada Rajesh Naphade</h1>
-<h4 align="">🚀 Learning. Building. Growing. <br> 
+<h3 align="">🚀 Learning. Building. Growing. <br> 
                    🚀 Full-Stack Developer | Building Scalable Web & Cloud Solutions <br>
                    ⚙️ Backend Engineer | DevOps Enthusiast | Database Lover<br>
                    💡 Turning Ideas into Code | Passionate about Clean Architecture & CI/CD <br>
                    🧩 Code. Create. Collaborate.<br>
                    🌐 Crafting Web Experiences with Code & Creativity <br>
                    🌸 Still Learning — But Never Stopping <br>
-                   💻Coding by Day, Bharatanatyam by Heart</h4>
+                   💻Coding by Day, Bharatanatyam by Heart</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naphademokshada" alt="naphademokshada" /></a> </p>
 
+
+📌About Me
 - 🌱 I’m currently learning **Microservices Architecture, Go, Redux , Kafka , Spring , Cassandra , reactnative**
-
 - 👯 I’m looking to collaborate on **Learning Focused real-world projects as a Software Developer Intern, focusing on backend or frontend development**
-
 - 💬 Ask me about **Java , PHP**
-
 - 📫 How to reach me **mokshadanaphade@gmail.com , https://www.linkedin.com/in/mokshada-naphade-597baa334/**
+- 💃 I’m not just passionate about coding — I’m also a Bharatanatyam dancer and a flautist who finds rhythm in both music and code! 🎶
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mokshada-naphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshada-naphade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mokshada-naphade-597baa334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshada-naphade" height="30" width="40" /></a>
 <a href="https://instagram.com/mokshada.naphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokshada.naphade" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mokshadanaphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mokshadanaphade" height="30" width="40" /></a>
+<a href="https://youtube.com/@mokshadanaphade?si=G3z8MEIex2Rpvxtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mokshadanaphade" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mnaphade_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mnaphade_04" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mokshadanaphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mokshadanaphade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mokshadanaphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mokshadanaphade" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mokshadanaphade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mokshadanaphade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
