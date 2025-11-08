@@ -8,7 +8,7 @@
                    🌸 Still Learning — But Never Stopping <br>
                    💻Coding by Day, Bharatanatyam by Heart</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naphademokshada" alt="naphademokshada"  height="400" width="500" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naphademokshada" alt="naphademokshada"  height="600" width="700" /></a> </p>
 
 
 📌About Me
