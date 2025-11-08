@@ -8,7 +8,7 @@
                    🌸 Still Learning — But Never Stopping <br>
                    💻Coding by Day, Bharatanatyam by Heart</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naphademokshada" alt="naphademokshada"  height="20" width="30" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naphademokshada" alt="naphademokshada"  height="40" width="50" /></a> </p>
 
 
 📌About Me
@@ -88,16 +88,7 @@
 </p>
 
 <!-- 🌙 Dark Mode Glow Effect -->
-<style>
-  img {
-    filter: drop-shadow(0 0 4px #00e6e6);
-    transition: all 0.3s ease;
-  }
-  img:hover {
-    filter: drop-shadow(0 0 15px #00ffff);
-    transform: scale(1.1);
-  }
-</style>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naphademokshada&show_icons=true&locale=en&layout=compact" alt="naphademokshada" /></p>
