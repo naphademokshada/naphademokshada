@@ -20,12 +20,6 @@
 - ## 📊 GitHub Stats
 ![Mokshada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naphademokshada&show_icons=true&theme=github_dark)
 
-## 🔤 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naphademokshada&layout=compact&theme=github_dark)
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=naphademokshada&theme=github_dark)
-
 
 
 <h3 align="left">Connect with me:</h3>
