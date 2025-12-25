@@ -17,7 +17,7 @@
 - 📫 How to reach me **mokshadanaphade@gmail.com , https://www.linkedin.com/in/mokshada-naphade-597baa334/**
 - 💃 I’m not just passionate about coding — I’m also a Bharatanatyam dancer and a flautist who finds rhythm in both music and code! 🎶
 
-- ## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 ![Mokshada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naphademokshada&show_icons=true&theme=github_dark)
 
 
