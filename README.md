@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mokshada Rajesh Naphade</h1>
+<h2 align="center">Hi 👋, I'm Mokshada Rajesh Naphade</h2>
 
-<h3 align="">🚀 Learning. Building. Growing. <br> 
+<h4 align="">🚀 Learning. Building. Growing. <br> 
                    🚀 Full-Stack Developer | Building Scalable Web & Cloud Solutions <br>
                    ⚙️ Backend Engineer | DevOps Enthusiast | Database Lover<br>
                    💡 Turning Ideas into Code | Passionate about Clean Architecture & CI/CD <br>
                    🧩 Code. Create. Collaborate.<br>
                    🌐 Crafting Web Experiences with Code & Creativity <br>
                    🌸 Still Learning — But Never Stopping <br>
-                   💻Coding by Day, Bharatanatyam by Heart</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naphademokshada" alt="naphademokshada"  height="800" width="900" /></a> </p>
+                   💻Coding by Day, Bharatanatyam by Heart</h4>
 
 
 📌About Me
