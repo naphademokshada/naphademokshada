@@ -18,8 +18,7 @@
 - 💃 I’m not just passionate about coding — I’m also a Bharatanatyam dancer and a flautist who finds rhythm in both music and code! 🎶
 
  ## 📊 GitHub Stats
-![Mokshada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naphademokshada&show_icons=true&theme=github_dark)
-
+![Mokshada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naphademokshada&show_icons=true&theme=default)
 
 
 <h3 align="left">Connect with me:</h3>
